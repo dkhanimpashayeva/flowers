@@ -1,0 +1,36 @@
+footer{
+    background-color: #E0ECDC;
+    padding: 70px 0;
+    color:#26715F;
+    ul{
+        list-style: none;
+      text-align: center;
+  margin: 0%;
+line-height: 30px;
+font-style: italic;
+    }
+    span{
+        display: inline-block;
+        margin-left: 60px;
+        padding-bottom: 10px;
+    
+        font-size: 25px;
+    }
+    form{
+        
+        border-bottom: 1px solid#26715F;
+        input{
+            outline: none;
+            border: none;
+            width: 80%;
+            background-color: #E0ECDC;
+        }
+        button{
+            border:none;
+            padding: 10px 25px;
+            background-color: #D8E3D5;
+            color:#26715F;
+            width: 20%;
+        }
+    }
+}
